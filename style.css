@@ -404,7 +404,10 @@ footer ul li a{
         font-size: 1.5rem;
     }
     #titleimg{
-        width: 65vw;
+        width: 60vw;
+    }
+    .text h1{
+        font-size: 51px;
     }
     .input-box input{
         padding: 0.5rem 3rem;
