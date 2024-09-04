@@ -165,6 +165,7 @@ section{
     align-items: center;
     justify-content: center;
     gap: 5rem;
+    margin-top: none;
 }
 /* .experiance img{
     width: 24vw;
@@ -304,6 +305,9 @@ footer ul li a{
     color: black;
     font-weight: 600;
 }
+.about-me h3{
+    margin-top: 20%;
+}
 .copyright{
     font-size: 300;
     margin-top: 2rem;
@@ -368,6 +372,7 @@ footer ul li a{
     header #menu-icon{
         display: block;
     }
+    
     .nav-links{
         position:absolute;
         top: 100%;
@@ -398,8 +403,8 @@ footer ul li a{
     header .logo{
         font-size: 1.5rem;
     }
-    .adout-container img{
-        width: 80vw;
+    #titleimg{
+        width: 65vw;
     }
     .input-box input{
         padding: 0.5rem 3rem;
