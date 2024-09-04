@@ -392,7 +392,8 @@ footer ul li a{
     header{
         padding: 1rem 5rem;
         gap: 8rem;
-        width: 80%;
+        width: 85%;
+        height: 55px;
     }
     header .logo{
         font-size: 1.5rem;
